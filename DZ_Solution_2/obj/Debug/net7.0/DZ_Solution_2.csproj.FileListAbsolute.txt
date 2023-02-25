@@ -1,0 +1,15 @@
+/Users/svetlanaloginova/Desktop/DZSeminars/DZ_Solution_2/obj/Debug/net7.0/DZ_Solution_2.csproj.AssemblyReference.cache
+/Users/svetlanaloginova/Desktop/DZSeminars/DZ_Solution_2/obj/Debug/net7.0/DZ_Solution_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svetlanaloginova/Desktop/DZSeminars/DZ_Solution_2/obj/Debug/net7.0/DZ_Solution_2.AssemblyInfoInputs.cache
+/Users/svetlanaloginova/Desktop/DZSeminars/DZ_Solution_2/obj/Debug/net7.0/DZ_Solution_2.AssemblyInfo.cs
+/Users/svetlanaloginova/Desktop/DZSeminars/DZ_Solution_2/obj/Debug/net7.0/DZ_Solution_2.csproj.CoreCompileInputs.cache
+/Users/svetlanaloginova/Desktop/DZSeminars/DZ_Solution_2/bin/Debug/net7.0/DZ_Solution_2
+/Users/svetlanaloginova/Desktop/DZSeminars/DZ_Solution_2/bin/Debug/net7.0/DZ_Solution_2.deps.json
+/Users/svetlanaloginova/Desktop/DZSeminars/DZ_Solution_2/bin/Debug/net7.0/DZ_Solution_2.runtimeconfig.json
+/Users/svetlanaloginova/Desktop/DZSeminars/DZ_Solution_2/bin/Debug/net7.0/DZ_Solution_2.dll
+/Users/svetlanaloginova/Desktop/DZSeminars/DZ_Solution_2/bin/Debug/net7.0/DZ_Solution_2.pdb
+/Users/svetlanaloginova/Desktop/DZSeminars/DZ_Solution_2/obj/Debug/net7.0/DZ_Solution_2.dll
+/Users/svetlanaloginova/Desktop/DZSeminars/DZ_Solution_2/obj/Debug/net7.0/refint/DZ_Solution_2.dll
+/Users/svetlanaloginova/Desktop/DZSeminars/DZ_Solution_2/obj/Debug/net7.0/DZ_Solution_2.pdb
+/Users/svetlanaloginova/Desktop/DZSeminars/DZ_Solution_2/obj/Debug/net7.0/DZ_Solution_2.genruntimeconfig.cache
+/Users/svetlanaloginova/Desktop/DZSeminars/DZ_Solution_2/obj/Debug/net7.0/ref/DZ_Solution_2.dll
