@@ -22,7 +22,7 @@ for (int i = 0; i < numbers.Length; i++)
 }
 
 
-Console.WriteLine($"Сумма 'ktvtynjd', стоящиx на позициях c нечетными индексами: {Sum} ");
+Console.WriteLine($"Сумма элементов, стоящиx на позициях c нечетными индексами: {Sum} ");
 
 void FillArrayRandom(int[] numbers)
 {

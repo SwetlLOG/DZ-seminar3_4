@@ -1,0 +1,15 @@
+/Users/svetlanaloginova/Desktop/DZSeminars/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/svetlanaloginova/Desktop/DZSeminars/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/svetlanaloginova/Desktop/DZSeminars/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/svetlanaloginova/Desktop/DZSeminars/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/svetlanaloginova/Desktop/DZSeminars/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/svetlanaloginova/Desktop/DZSeminars/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/svetlanaloginova/Desktop/DZSeminars/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svetlanaloginova/Desktop/DZSeminars/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/svetlanaloginova/Desktop/DZSeminars/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/svetlanaloginova/Desktop/DZSeminars/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/svetlanaloginova/Desktop/DZSeminars/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/svetlanaloginova/Desktop/DZSeminars/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/svetlanaloginova/Desktop/DZSeminars/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/svetlanaloginova/Desktop/DZSeminars/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/svetlanaloginova/Desktop/DZSeminars/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
